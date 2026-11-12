@@ -90,14 +90,6 @@ A project related to Geometry Dash bot indexing and tooling.
 
 ---
 
-
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Social Media
 
 - **YouTube:** [@NeonGD1667](https://youtube.com/@NeonGD1667)
