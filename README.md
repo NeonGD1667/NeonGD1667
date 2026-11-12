@@ -27,6 +27,7 @@ I'm currently learning, exploring, or revisiting these technologies:
 
 **Programming Languages**
 - C / C++
+- Python
 - C#
 - Java
 - TypeScript
