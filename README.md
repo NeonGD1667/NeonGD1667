@@ -89,6 +89,8 @@ A project related to Geometry Dash bot indexing and tooling.
 
 - **Homeless Team** — Geometry Dash community and development projects.
 
+- **Homeless Team Official:** [YouTube](https://www.youtube.com/@HomelessTeamOfficial)
+
 ---
 
 ## 🌐 Social Media
